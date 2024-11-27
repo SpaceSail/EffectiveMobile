@@ -10,11 +10,11 @@
 
 ### Run:
 ```bash
-src/mmain.py
+src/main.py```
 
 ### Add book
 ```bash
-python3 main.py -t <title> -a <author_name> -y <year>
+python3 main.py -t <title> -a <author_name> -y <year>```
 
 ### Commands
 ```bash
