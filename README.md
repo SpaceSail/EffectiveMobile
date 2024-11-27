@@ -2,7 +2,7 @@
 
 ## Possibbilities:
 ### main CRUD operations:
-- add bbook
+- add book
 - remove book
 - update status
 - search by id, author or year 
@@ -23,7 +23,7 @@ python3 main.py -t <title> -a <author_name> -y <year>
 python3 main.py -com <command>
 ```
 
--'search': search book by author or year or title
--'delete': delete from storage by id
--'get_all': list of all books
--'change_status': change availiability
+- 'search': search book by author or year or title
+- 'delete': delete from storage by id
+- 'get_all': list of all books
+- 'change_status': change availiability
