@@ -13,5 +13,14 @@
 src/mmain.py
 
 ### Add book
-```bbash
-python3 mmain.py -t <title> -a <author_name> -y <year>
+```bash
+python3 main.py -t <title> -a <author_name> -y <year>
+
+### Commands
+```bash
+python3 main.py -com
+
+-'search': search book by author or year or title
+-'delete': delete from storage by id
+-'get_all': list of all books
+-'change_status': change availiability
