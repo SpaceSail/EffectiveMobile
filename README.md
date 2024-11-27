@@ -18,7 +18,7 @@ python3 main.py -t <title> -a <author_name> -y <year>
 
 ### Commands
 ```bash
-python3 main.py -com
+python3 main.py -com <command>```
 
 -'search': search book by author or year or title
 -'delete': delete from storage by id
