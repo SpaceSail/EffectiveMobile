@@ -10,7 +10,8 @@
 
 ### Run:
 ```bash
-src/main.py ```
+src/main.py
+```
 
 ### Add book
 ```bash
